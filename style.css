@@ -1,0 +1,27 @@
+.header{
+    background-color:hsl(343, 79%, 87%) ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    
+    
+}
+.banner{
+    margin: 30px;
+    padding:30px, 30px,30px,120px;
+    
+    
+}
+.btn-primary{
+    background-color: rgb(238, 109, 17);
+    border: none;
+    border-radius: 5px;
+    
+}
+.img{
+    width: 500px;
+    height: 500px;
+}
+
+
