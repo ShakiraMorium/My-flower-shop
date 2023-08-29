@@ -23,5 +23,62 @@
     width: 500px;
     height: 500px;
 }
+.text{
+    text-align: center;
+    font-family: Lato;
+    padding-top: 15px;
+
+    
+}
+
+.text p{
+   
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    
+    
+   
+}
+.main-box {
+    margin-left: 250px;
+    height: 250px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+
+    
+   
+}
+.box-img1{
+    
+    height: 250px;
+    width: 300px;
+    background: rgb(202, 243, 229);
+    border-radius: 300px 300px 0px 0px;
+
+}
+.box-img2{
+    height: 250px;
+    width: 300px;
+    background: rgb(247, 210, 216);
+    border-radius: 300px 300px 0px 0px;
+    
+
+}
+.box-img3{
+    height: 250px;
+    width: 300px;
+    background:rgb(192, 180, 180);
+    border-radius: 300px 300px 0px 0px;
+    
+
+}
+
+
+
 
 
