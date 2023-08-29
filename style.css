@@ -27,6 +27,7 @@
     text-align: center;
     font-family: Lato;
     padding-top: 5px;
+    color: rgb(80, 96, 109);
 
     
 }
@@ -78,6 +79,16 @@
     
 
 }
+.icon-items{
+    padding: 25px;
+    margin: 40px;
+    background-color:rgb(182, 221, 208) ;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
 .about-section{
     margin: 40px 40px 40px 40px;
     padding-left: 40px;
@@ -90,30 +101,41 @@
 }
 .media{
     text-align: center;
+ 
 }
 .media-img{
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap:15px;
-    margin-left: 20px;
+    margin: 40px;
+    
     
 
 }
 .mail-item{
     background-image: url(./images/Rectangle\ 9.png);
-    height: 200px;
+    height: 400px;
 }
 .text-bg{
+    
     text-align: center;
-    margin-top: 50px;
-    padding-top: 25px;
-
+    margin-top:50px;
+    padding-top: 75px;
     
 }
 
+    
+
 .form{
     text-align: center;
+}
+.footer{
+    padding-top: 75px;
+    background-color: rgb(10, 10, 10);
+    height: 400px;
+    margin: 50px;
+   
 }
 
 
