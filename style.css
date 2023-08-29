@@ -26,7 +26,7 @@
 .text{
     text-align: center;
     font-family: Lato;
-    padding-top: 15px;
+    padding-top: 5px;
 
     
 }
@@ -100,7 +100,20 @@
     
 
 }
+.mail-item{
+    background-image: url(./images/Rectangle\ 9.png);
+    height: 200px;
+}
+.text-bg{
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 25px;
 
+    
+}
 
+.form{
+    text-align: center;
+}
 
 
